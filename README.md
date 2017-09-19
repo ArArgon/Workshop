@@ -4,5 +4,5 @@
 ### Only 2 problem sets:
 |List Name|Amount|Finished|
 |:-------:|:--:|:-------|
-|Dynamic Programming|3|**No**|
+|Dynamic Programming|12|**No**|
 |Spanning Tree|2|**No**|
