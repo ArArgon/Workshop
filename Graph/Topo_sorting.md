@@ -1,4 +1,4 @@
-#Topological Sorting (拓扑排序)
+# Topological Sorting (拓扑排序)
 ---
 ## 定义与约定
 > **偏序与全序**
