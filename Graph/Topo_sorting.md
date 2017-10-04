@@ -122,7 +122,7 @@ bool toposort(int n) {
     for(int i = 1; i <= n; i++)
         if(!vis[i])
             if(!dfs(i))
-				return false; //circle
+		return false; //circle
     return true;
 }
 ```
